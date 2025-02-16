@@ -53,6 +53,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 - User InterFace
 
 ![Screenshot 2025-02-16 205312](https://github.com/user-attachments/assets/a860466e-dc43-45bb-bf1d-23e285d7cf41)
+
+
+
+
+
+
 ![Screenshot 2025-02-16 210103](https://github.com/user-attachments/assets/ff2355be-574b-4f10-8fe4-34da0dbb750c)
 
 
